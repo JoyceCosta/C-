@@ -1,0 +1,16 @@
+/home/joyce/Projects/yt-projects/c#yt/bin/Debug/net5.0/c#yt
+/home/joyce/Projects/yt-projects/c#yt/bin/Debug/net5.0/c#yt.deps.json
+/home/joyce/Projects/yt-projects/c#yt/bin/Debug/net5.0/c#yt.runtimeconfig.json
+/home/joyce/Projects/yt-projects/c#yt/bin/Debug/net5.0/c#yt.runtimeconfig.dev.json
+/home/joyce/Projects/yt-projects/c#yt/bin/Debug/net5.0/c#yt.dll
+/home/joyce/Projects/yt-projects/c#yt/bin/Debug/net5.0/ref/c#yt.dll
+/home/joyce/Projects/yt-projects/c#yt/bin/Debug/net5.0/c#yt.pdb
+/home/joyce/Projects/yt-projects/c#yt/obj/Debug/net5.0/c#yt.csproj.AssemblyReference.cache
+/home/joyce/Projects/yt-projects/c#yt/obj/Debug/net5.0/c#yt.GeneratedMSBuildEditorConfig.editorconfig
+/home/joyce/Projects/yt-projects/c#yt/obj/Debug/net5.0/c#yt.AssemblyInfoInputs.cache
+/home/joyce/Projects/yt-projects/c#yt/obj/Debug/net5.0/c#yt.AssemblyInfo.cs
+/home/joyce/Projects/yt-projects/c#yt/obj/Debug/net5.0/c#yt.csproj.CoreCompileInputs.cache
+/home/joyce/Projects/yt-projects/c#yt/obj/Debug/net5.0/c#yt.dll
+/home/joyce/Projects/yt-projects/c#yt/obj/Debug/net5.0/ref/c#yt.dll
+/home/joyce/Projects/yt-projects/c#yt/obj/Debug/net5.0/c#yt.pdb
+/home/joyce/Projects/yt-projects/c#yt/obj/Debug/net5.0/c#yt.genruntimeconfig.cache
